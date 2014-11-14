@@ -23,7 +23,7 @@ public class Dom4jXmlToList {
 	     SAXReader saxReader = new SAXReader();
 	     Document document = null;
 		try {
-			document = saxReader.read("books.xml");
+			document = saxReader.read("books2.xml");
 		} catch (DocumentException e) {
 			e.printStackTrace();
 		}

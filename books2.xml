@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
   <book id="1">
-    <name>火影忍者</name>
+    <name>火影忍者<version>1.00<vv>dddd<ddd>ssss</ddd></vv></version></name>
     <author>岸本齐史</author>
     <date>20041002</date>
     <price>34</price>
