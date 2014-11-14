@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book id="1">
+    <name>火影忍者</name>
+    <author>岸本齐史</author>
+    <date>20041002</date>
+    <price>34</price>
+  </book>
+  <book id="2" version="1.0">
+     <name>海贼王</name>
+     <address>日本</address>
+       <price>28</price>
+  </book>
+</bookstore>
